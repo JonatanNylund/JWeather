@@ -1,3 +1,3 @@
 # JWeather
 
-This is a weather app that is currently work in progress. 
+This is a weather app which only shows the weather in Stockholm right now that is currently work in progress. 
